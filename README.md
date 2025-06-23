@@ -1,4 +1,4 @@
-👋 Hi, I'm Anton — a backend-focused developer with a passion for building reliable and scalable systems. I started my programming journey in high school, exploring desktop applications with WPF, and quickly moved into backend development with ASP.NET Core.
+👋 Hi, I'm Anton — a backend-focused developer with a passion for building reliable and scalable systems. 
 
 💻 I enjoy working with .NET, C#, PostgreSQL, and modern architectural patterns like Clean Architecture, CQRS, Vertical Slice Architecture, and DDD. I have hands-on experience with building RESTful APIs, handling distributed file storage with MinIO, and writing clean, well-tested code.
 
